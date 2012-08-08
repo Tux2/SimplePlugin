@@ -1,0 +1,5 @@
+name: SimplePlugin
+
+main: Tux2.SimplePlugin.SimplePlugin
+
+version: 0.1
